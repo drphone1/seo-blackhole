@@ -1,0 +1,17 @@
+.wrap h1 {
+    margin-bottom: 20px;
+}
+
+form textarea {
+    width: 100%;
+    max-width: 600px;
+    height: 150px;
+}
+
+.wp-list-table {
+    margin-top: 20px;
+}
+
+.wp-list-table th, .wp-list-table td {
+    text-align: center;
+}
